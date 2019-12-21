@@ -9,7 +9,7 @@
 ### 使用技術
 前端：Vue.js / Ajax / CSS / HTML </br>
 後端：PHP </br>
-資料庫：MYSQL </br>
+資料庫：MySQL </br>
 
 ### 資料庫設定
 欄位（由左至右）：學號id（不可重複） / 姓名Name / 信箱Email / 手機Phone
